@@ -1,0 +1,13 @@
+,Activation function,optimizer,Learning rate,batch size,hidden1,hidden2,accuracy
+0,ReLu,Adam,0.01,100,256,256,0.9584
+1,ReLu,Adam,0.1,100,256,256,0.3912
+2,ReLu,Adam,0.01,50,256,256,0.9698
+3,ReLu,Adam,0.1,50,256,256,0.3201
+4,ReLu,Adam,0.01,200,256,256,0.9765
+5,ReLu,Adam,0.1,200,256,256,0.5673
+6,ReLu,SDG,0.01,100,256,256,0.9478
+7,ReLu,SDG,0.1,100,256,256,0.9776
+8,ReLu,SDG,0.01,50,256,256,0.966
+9,ReLu,SDG,0.1,50,256,256,0.3201
+10,ReLu,SDG,0.01,200,256,256,0.9765
+11,ReLu,SDG,0.1,200,256,256,0.5673
